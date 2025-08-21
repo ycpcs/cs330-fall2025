@@ -4,10 +4,13 @@ course_number: CS330
 title: Syllabus
 ---
 
-NETWORK APPLICATIONS AND PROTOCOLS
-========================================
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-**Fall 2025*
+## CS 330: Network Applications and Protocols
+
+## Fall 2025
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 Class times:
 

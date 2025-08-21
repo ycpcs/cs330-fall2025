@@ -4,7 +4,13 @@ course_number: CS330
 title: Network Applications and Protocols
 ---
 
-# CS 330: Network Applications and Protocols
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+## CS 330: Network Applications and Protocols
+
+## Fall 2025
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 This is your central hub for all course-related information, including announcements, lecture materials, lab assignments, and important updates. Please check this page regularly to stay on track and informed.
 
