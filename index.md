@@ -4,7 +4,7 @@ course_number: CS330
 title: Network Applications and Protocols
 ---
 
-# Welcome to CS 330: Network Applications and Protocols – Fall 2025 at York College!
+# CS 330: Network Applications and Protocols
 
 This is your central hub for all course-related information, including announcements, lecture materials, lab assignments, and important updates. Please check this page regularly to stay on track and informed.
 
