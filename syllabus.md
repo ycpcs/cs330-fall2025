@@ -11,12 +11,12 @@ NETWORK APPLICATIONS AND PROTOCOLS
 
 Class times:
 
-- Section 102, T/Th 6:00PM - 7:15PM in KEC 123
+- Section 102, T/Th 6:00PM - 7:15PM in KEC 119
 
 Instructor:
 
 - Galin Zhelezov, gzhelezo@ycp.edu 
-- Office hours: T R 7:15PM-7:45PM in KEC 123 or by appointment
+- Office hours: T R 7:15PM-7:45PM in KEC 119 or by appointment
 
 Course Description
 ------------------
