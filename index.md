@@ -11,15 +11,11 @@ This is your central hub for all course-related information, including announcem
 ## Links
 
 * [Syllabus](syllabus.html)
-<!-- * [Schedule](schedule/index.html) -->
+* [Schedule](schedule/index.html)
 * [Assignments](assignments/index.html)
-<!-- * [Labs](labs/index.html)
-* [Lab Setup](labs/setup.html)
-* [Notes](labs/notes.html) -->
 * [Resources](resources/index.html) 
-* [Ethics and Legal Responsibilities](assignments/ethics.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
-* **Aug 28** - Review Ethics Guide: [Ethics Guide](assignments/assignment1.html) Due
+* **Aug 28** - [Ethics and Legal Responsibilities](assignments/ethics.html) Due
 * **Aug 26** - Welcome back!
