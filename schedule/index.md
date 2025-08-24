@@ -27,8 +27,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 8    | 14-Oct | NO CLASSES - Fall Break                                             |               |                                      |
 | 8    | 16-Oct | Chat Application                                                    |               |                                      |
 | 9    | 21-Oct | Network Layer: Router Architectures, IPv4, DHCP                     | CN: 4.1 - 4.3 |                                      |
-| 9    | 23-Oct | Network Layer: IPv6, NAT, teredo, 6to4                              | CN: 4.3 - 4.5 |                                      |
-| 10   | 28-Oct | **EXAM 2 **                                                         | CN: 3.1 - 4.5 |                                      |
+| 9    | 23-Oct | Network Layer: IPv6, NAT                                            | CN: 4.3 - 4.5 |                                      |
+| 10   | 28-Oct | **EXAM 2**                                                          | CN: 3.1 - 4.5 |                                      |
 | 10   | 30-Oct | Raw Sockets                                                         |               |                                      |
 | 11   | 4-Nov  | Network Layer: Routing Algorithms & Dijkstra's Algorithm            | CN: 5.1 - 5.2 |                                      |
 | 11   | 6-Nov  | Network Layer: Internet Routing                                     | CN: 5.3 - 5.4 |                                      |
