@@ -7,7 +7,7 @@ This is the website for CS 330, Fall 2025 at York College of Pennsylvania.
 
 Unless indicated otherwise, all materials are
 
-Copyright (c) 2025, Galin Zhelezov &lt;<gzhelezo@ycp.edu>&gt;
+Copyright (c) 2025, Prof G. &lt;<gzhelezo@ycp.edu>&gt;
 
 Unless indicated otherwise, all of the materials on this website
 are open source, and may be used, modified, and redistributed

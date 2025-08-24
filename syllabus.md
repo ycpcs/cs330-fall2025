@@ -18,7 +18,7 @@ Class times:
 
 Instructor:
 
-- Galin Zhelezov, gzhelezo@ycp.edu 
+- Prof G, gzhelezo@ycp.edu 
 - Office hours: T R 7:15PM-7:45PM in KEC 119 or by appointment
 
 Course Description
