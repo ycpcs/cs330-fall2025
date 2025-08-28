@@ -67,7 +67,7 @@ Please acknowledge that you understand the responsibilities and risks associated
 
 **Date:** ____________________________________
 
-**Signature:** _________________________________
+**Signature:** ____________________________________
 
 
 

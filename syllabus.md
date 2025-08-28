@@ -178,7 +178,7 @@ Regular attendance and active participation in class are crucial for your succes
 
 If you consistently attend and participate, you will receive full credit for attendance and participation. However, frequent absences or lack of participation will negatively impact your credit in these areas.
 
-Students are expected to attend every class. One unexcused absence is permitted without penalty. After that, each additional unexcused absence will result in a deduction of 2% from your final grade, up to a maximum of 10%. If you anticipate needing to miss more classes (e.g., due to illness, work, or personal responsibilities), contact the instructor in advance to discuss alternative accommodations.
+Students are expected to attend every class. **One unexcused absence is permitted without penalty**. After that, each additional unexcused absence will result in a deduction of 2% from your final grade, up to a maximum of 10%. If you anticipate needing to miss more classes (e.g., due to illness, work, or personal responsibilities), contact the instructor in advance to discuss alternative accommodations.
 
 You are responsible for keeping up with the reading assignments as described in the course schedule.
 
