@@ -20,7 +20,7 @@ title: "Wireshark Intro"
      - If you're unsure, open your browser and **start loading a webpage** — then see which interface shows packet activity.
      - **Tip:** Avoid loopback interfaces unless you're capturing local traffic like `localhost`.
 4. On **Windows**, click **Start** next to the interface on which you want to begin capture.
-5. While Wireshark is running, open your browser and go to: ```https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html```
+5. While Wireshark is running, open your browser and go to: <a href="https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html" target="_blank">https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html</a>
 
 ---
 
@@ -52,7 +52,7 @@ How long did it take from when the **HTTP GET** message was sent until the **HTT
 
 ### 3. IP Address Lookup
 
-- What is the **IP address** of [https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html](https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html)?
+- What is the **IP address** of ```https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html```?
 - What is the **IP address of your computer**?
 
 ---
