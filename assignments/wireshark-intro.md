@@ -52,7 +52,7 @@ How long did it take from when the **HTTP GET** message was sent until the **HTT
 
 ### 3. IP Address Lookup
 
-- What is the **IP address** of `https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html`?
+- What is the **IP address** of [https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html](https://ycpcs.github.io/cs330-fall2025/assignments/fingerprint.html)?
 - What is the **IP address of your computer**?
 
 ---
