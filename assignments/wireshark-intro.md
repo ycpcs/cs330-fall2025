@@ -102,3 +102,12 @@ Print the two HTTP messages (GET and OK) referred to in **Question 2**.
 ## Grading
 Submit your lab report, including the **packet capture file** and **screenshots**, via [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date listed in the syllabus.
 
+### How to Save Your Packet Capture
+
+1. After stopping the capture in Wireshark, go to the **File** menu.
+2. Select **Save As…** or **Save**.
+3. Choose a location on your computer to save the capture file.
+4. Ensure the file extension is `.pcap` or `.pcapng`.
+5. Click **Save**.
+   
+> **Note:** All answers should be derived directly from your Wireshark analysis.
