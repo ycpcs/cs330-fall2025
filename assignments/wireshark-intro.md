@@ -43,7 +43,7 @@ Which of the following protocols appear in the **Protocol** column in your Wires
 
 How long did it take from when the **HTTP GET** message was sent until the **HTTP OK** reply was received?
 
-> Tip:  
+**Tip**:  
 > The **Time** column in Wireshark shows the time (in seconds) since capture began.  
 > To change this to time-of-day format:  
 > `View → Time Display Format → Time-of-day`
@@ -86,7 +86,7 @@ Expand the **Transmission Control Protocol (TCP)** section of the HTTP request p
 
 Print the two HTTP messages (GET and OK) referred to in **Question 2**.
 
-Steps:
+**Steps**:
 
 1. Select the desired packet in the list.
 2. Go to **File → Print**
