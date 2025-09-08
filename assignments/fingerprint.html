@@ -28,6 +28,9 @@
 
       return fingerprint;
     }
+
+    const fingerprint = getUserFingerprint();
+    document.getElementById("output").textContent = JSON.stringify(fingerprint, null, 2);
   </script>
 </body>
 
