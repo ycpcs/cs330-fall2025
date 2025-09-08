@@ -8,6 +8,7 @@
 <body>
   <h2>User Identification Snapshot</h2>
   <pre id="output"></pre>
+  <div id="iframe-container"></div>
 
   <script>
     function getUserFingerprint() {
@@ -31,11 +32,20 @@
 
     const fingerprint = getUserFingerprint();
     document.getElementById("output").textContent = JSON.stringify(fingerprint, null, 2);
+
+    const iframe = document.createElement('iframe');
+
+    iframe.src = "http://gaia.cs.umass.edu/wireshark-labs/INTRO-wireshark-file1.html";
+    iframe.width = "100%";
+    iframe.height = "100%";
+    iframe.style.border = "none";
+    iframe.frameBorder = "0";
+
+    const container = document.getElementById('iframe-container');
+
+    container.innerHTML = '';
+    container.appendChild(iframe);
   </script>
-  <iframe src="http://gaia.cs.umass.edu/wireshark-labs/INTRO-wireshark-file1.html" width="100%" height="100%"
-    style="border:none;" frameborder="0">
-    Your browser does not support iframes.
-  </iframe>
 </body>
 
 </html>
