@@ -4,7 +4,7 @@ course_number: CS330
 title: "Homework: Chapter 1"
 ---
 
-## Chapter 1 Homework
+# Chapter 1 Homework
 
 ## Network Transmission Scenario (15 pts)
 Consider a single router transmitting packets, each of size **_L_ bits**, over a single link to another router. The link has a transmission rate of **_R_ Mbps**.
