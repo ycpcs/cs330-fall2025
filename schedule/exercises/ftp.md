@@ -40,8 +40,12 @@ quit
 - Replace ```your-email-address``` with your actual email address.
 - Wait for each command to execute before proceeding to the next.
 
+---
+
 ### 3. Stop Wireshark Capture
 - Return to Wireshark and click Stop to end the capture.
+
+---
 
 ### 4: Export FTP Objects
 
@@ -49,6 +53,8 @@ quit
   **File** → **Export Objects** → **FTP...**
 
 - A window will appear listing all files transferred over FTP during your capture.
+
+---
 
 #### Answer the following:
 
@@ -63,13 +69,16 @@ quit
     - What are the implications of being able to extract files like this from a packet capture?
     - What does this tell you about using **unencrypted FTP** on public or shared networks?
 
+---
+
 ## Submission Instructions
 
-Post your solutions in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
+Post your answers in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
 
 Please submit the following:
 
 - **Answers** to all **Analysis Tasks** and **Discussion Questions**.
+- A copy of the packet capture file.
 - A **screenshot** of the **TCP Stream** showing the FTP login (username and password).
 - A **screenshot** of the **Exported FTP Objects** window from Wireshark.
 - (Optional) Any **files** you saved from the FTP session (e.g., `rfc959.txt`).
