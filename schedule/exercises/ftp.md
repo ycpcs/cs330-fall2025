@@ -78,7 +78,7 @@ Post your answers in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled du
 Please submit the following:
 
 - **Answers** to all **Analysis Tasks** and **Discussion Questions**.
-- A copy of the packet capture file.
+- A copy of the **packet capture file**.
 - A **screenshot** of the **TCP Stream** showing the FTP login (username and password).
 - A **screenshot** of the **Exported FTP Objects** window from Wireshark.
 - (Optional) Any **files** you saved from the FTP session (e.g., `rfc959.txt`).
