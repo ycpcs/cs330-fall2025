@@ -24,6 +24,7 @@ This is your central hub for all course-related information, including announcem
 
 ## News
 * **Sep 28** - [Time Server](assignments/time-server.html) Due
+* **Set 23** - Exam 1 [Study Guide](exams/exam-1-guide.html)
 * **Sep 18** - [Chapter 1 Homework](assignments/chapter-1.html) Due
 * **Sep 11** - [Wireshark Intro](assignments/wireshark-intro.html) Due
 * **Aug 28** - [Ethics and Legal Responsibilities](assignments/ethics.html) Due
