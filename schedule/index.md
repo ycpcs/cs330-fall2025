@@ -17,8 +17,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 3    | 9-Sep  | Application Layer: Socket Programming                                   | CN: 2.1 - 2.2 | [Chapter 1 Homework](../assignments/chapter-1.html)    |
 | 3    | 11-Sep | Application Layer: [HTTP & SMTP](slides/chapter_2.pdf)                  | CN: 2.7       |                                                        |
 | 4    | 16-Sep | Application Layer: [FTP](exercises\ftp.html), [DNS](exercises\dns.html) | CN: 2.3 - 2.4 |                                                        |
-| 4    | 18-Sep | Application Layer: [Video Streaming](slides/chapter_2.pdf)              | CN: 2.5 - 2.6 |                                                        |
-| 5    | 23-Sep | **EXAM 1**                                                              | CN: 1.1 - 2.6 |                                                        |
+| 4    | 18-Sep | Application Layer: [Video Streaming](slides/chapter_2.pdf)              | CN: 2.5 - 2.6 | [Time Server](../assignments/time-server.html)         |
+| 5    | 23-Sep | **EXAM 1**                                                              | CN: 1.1 - 2.6 | [Study Guide](exams\exam-1-guide.html)                 |
 | 5    | 25-Sep | Transport Layer: Design Issues                                          | CN: 3.1 - 3.3 |                                                        |
 | 6    | 30-Sep | Transport Layer: UDP                                                    | CN: 3.2 - 3.3 |                                                        |
 | 6    | 2-Oct  | Transport Layer: Reliable Data Transfer                                 | CN: 3.4       |                                                        |

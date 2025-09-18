@@ -23,6 +23,7 @@ This is your central hub for all course-related information, including announcem
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
+* **Sep 28** - [Time Server](assignments/time-server.html) Due
 * **Sep 18** - [Chapter 1 Homework](assignments/chapter-1.html) Due
 * **Sep 11** - [Wireshark Intro](assignments/wireshark-intro.html) Due
 * **Aug 28** - [Ethics and Legal Responsibilities](assignments/ethics.html) Due
