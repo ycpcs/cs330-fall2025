@@ -4,7 +4,7 @@ course_number: CS330
 title: "Time Server"
 ---
 
-# Networked TCP Time Server 
+# Programming Lab: Networked TCP Time Server & Client
 
 ## Objective
 
