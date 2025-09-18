@@ -98,4 +98,4 @@ Post your answers in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled du
 - Discuss any assumptions made during the project (e.g., using `localhost` for testing).
 
 
-> Double-check that any screenshots clearly show packet details and are legible.
+> **Note:** Double-check that any screenshots clearly show packet details and are legible.
