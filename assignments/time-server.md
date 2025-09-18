@@ -38,7 +38,7 @@ int main() {
     return 0;
 }
 ```
-- Use the [TCP server](assignments\tcp\server.c) developed during class as a reference or starting point for your implementation.
+- Use the [TCP server](tcp\server.c) developed during class as a reference or starting point for your implementation.
 
 ---
 
