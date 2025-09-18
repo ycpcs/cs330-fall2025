@@ -50,7 +50,7 @@ int main() {
   - Send the current time to the client.
   - Print the time sent to the client and the client’s connection information (IP address, port, etc.).
   - Close the connection after sending the time.
-- Use the [code provided] as a starting point and integrate it into a TCP server by using `socket()`, `bind()`, `listen()`, `accept()`, `send()`, and `close()`.
+- Use the code provided as a starting point and integrate it into a TCP server by using `socket()`, `bind()`, `listen()`, `accept()`, `send()`, and `close()`.
 
 ### 2. Display Client Information
 - Display details such as the client’s IP address and port number each time a new client connects.
