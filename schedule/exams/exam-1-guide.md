@@ -7,8 +7,6 @@ title: "Exam 1 - Study Guide"
 Exam 1 - Sept 23, 2025
 -----------------------
 
-# Exam Study Guide
-
 ## Topics to Review
 
 ### 1. Circuit Switching vs. Packet Switching
@@ -90,7 +88,7 @@ Know the default ports for the following protocols:
 | ----------- | ------- | ------------------ | ----------------------- |
 | HTTP        | 80      | HTTPS (443)        | Web traffic             |
 | DNS         | 53      | DNS over TLS (853) | Name resolution         |
-| FTP         | 20, 21  | SFTP (21/990)      | 20 = Data, 21 = Control |
+| FTP         | 20, 21  | SFTP (989/990)     | 20 = Data, 21 = Control |
 | SMTP        | 25      | SMTPS (465)        | Email sending           |
 | POP3        | 110     | POP3S (995)        | Email retrieval         |
 | IMAP        | 143     | IMAPS (993)        | Email retrieval         |
