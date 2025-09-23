@@ -25,6 +25,8 @@ This is your central hub for all course-related information, including announcem
 ## News
 * **Sep 28** - [Time Server](assignments/time-server.html) Due
 * **Sep 23** - Exam 1 [Study Guide](schedule/exams/exam-1-guide.html)
+* **Sep 19** - Class Exercise: [Analyzing FTP Traffic with Wireshark](exercises/ftp.html) Due
+* **Sep 19** - Class Exercise: [Exploring DNS Using nslookup and Wireshark](exercises/dns.html) Due
 * **Sep 18** - [Chapter 1 Homework](assignments/chapter-1.html) Due
 * **Sep 11** - [Wireshark Intro](assignments/wireshark-intro.html) Due
 * **Aug 28** - [Ethics and Legal Responsibilities](assignments/ethics.html) Due
