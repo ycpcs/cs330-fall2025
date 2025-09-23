@@ -10,7 +10,7 @@ This page links to homework and programming assignments.
 > ---------- | ---- | ------ | ---
 > [Ethics and Legal Responsibilities](ethics.html) | n/a | n/a | Aug 28, 2025
 > [Wireshark Intro](wireshark-intro.html) | n/a | 50 | Sept, 11, 2025
-> [Chapter 1 Homework](chapter-1.html) | n/a | 150 | Sept, 18 2025
+> [Chapter 1 Homework](chapter-1.html) | [Review](chapter-1-review.html) | 150 | Sept, 18 2025
 > [Time Server](time-server.html) | n/a | 100 | Sept, 28 2025
 
 <sup>*</sup> Programming Assignment
