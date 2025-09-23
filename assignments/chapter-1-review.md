@@ -105,7 +105,7 @@ Round all your answers to **two decimal places after leading zeros**.
   _(Assume packet switching is used.)_
   <br/>
   <code>
-    13 ∗ 𝑝 ∗ (1 − 𝑝)<sup>(13 − 1)</sup> = 13 * (0.25) × (0.75)^12 ~ 0.04498 ~ 0.045
+    13 ∗ 𝑝 ∗ (1 − 𝑝)<sup>(13 − 1)</sup> = 13 * (0.25) × (0.75)^12 ~ 0.1029 ~ 0.10
   </code>
 
 5. **When one user is transmitting**, what **fraction of the link capacity** is used by this user?  
