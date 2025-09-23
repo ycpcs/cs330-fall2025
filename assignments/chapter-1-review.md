@@ -126,7 +126,7 @@ Round all your answers to **two decimal places after leading zeros**.
 7. When packet switching is used, what is the **probability that more than 7 users** are transmitting?
   <br/>
   <code>
-    Sum{(13 choose n) * p <sup>n</sup> * (1 - p)<sup>(13 - n)</sup>}, for n = sum{(13 choose 7) * 0.25<sup>n</sup> * 0.75<sup>(13-n)</sup>}, for n = 8 to 13 => 0.0093076229095458984375 ~ 0.0093
+    Sum{(13 choose n) * p <sup>n</sup> * (1 - p)<sup>(13 - n)</sup>}, for n = 8 to 13 => sum{(13 choose 7) * 0.25<sup>n</sup> * 0.75<sup>(13-n)</sup>}, for n = 8 to 13 => 0.0093076229095458984375 ~ 0.0093
   </code>
   <br/>
   <a href="https://www.wolframalpha.com/input?i=sum%7B%2813+choose+7%29+*+0.25+%5E+n+*+0.75+%5E+%2813-n%29%7D%2C+for+n+%3D+8+to+13">Wolfram Alpha</a>
