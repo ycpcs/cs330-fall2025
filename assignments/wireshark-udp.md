@@ -113,6 +113,8 @@ For the **second packet (the response)**:
 ## Grading
 Submit your lab report, including the **packet capture file** and **screenshots**, via [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date listed in the syllabus.
 
+> **Note:** Label your answers clearly using the question numbers above.
+
 ### How to Save Your Packet Capture
 
 1. After stopping the capture in Wireshark, go to the **File** menu.
