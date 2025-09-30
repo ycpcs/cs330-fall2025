@@ -8,7 +8,7 @@ title: "Lab - Reliable Data Transfer"
 
 # Lab - Reliable Data Transfer   
 
-###  Problem 1.
+###  Problem 1. (30 pts)
 Visit the Chapter 3 - _Go-Back-N Protocol_ Java applet at the companion [Web site](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/content/interactiveanimations/go-back-n-protocol/index.html). Please read the instructions carefully before proceeding. 
 
 1. Experiment with Five Packets:
@@ -34,13 +34,13 @@ Visit the Chapter 3 - _Go-Back-N Protocol_ Java applet at the companion [Web sit
 
 ---
 
-### Problem 2.
+### Problem 2. (30 pts)
 - Repeat Problem 1 (**all questions**), but now with [Selective Repeat Protocol](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/content/interactiveanimations/selective-repeat-protocol/index.html).
 
 ---
 
-### Problem 3.
-- List Key Differences Between Selective Repeat and Go-Back-N?
+### Problem 3. (15 pts)
+- List **a few** Key Differences Between Selective Repeat and Go-Back-N?
 
 ---
 
