@@ -4,8 +4,6 @@ course_number: CS330
 title: "Lab - Reliable Data Transfer"
 ---
 
----
-
 # Lab - Reliable Data Transfer   
 
 ###  Problem 1. (30 pts)
