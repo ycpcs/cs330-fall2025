@@ -19,9 +19,13 @@ Download and compile the following files:
 
 **Example:**  
 Compile:  
-`gcc tcp_client.c -o tcp_client`  
-Run:  
-`./tcp_client`
+```bash
+gcc tcp_client.c -o tcp_client
+```
+Run with:  
+```bash
+./tcp_client
+```
 
 > Be sure to stop any running servers or clients and recompile after making changes.
 
@@ -42,7 +46,7 @@ We will use simple client/server applications to explore **TCP and UDP socket pr
 ## TCP vs UDP Quick Reference
 
 | Protocol | Connection | Reliability | Ordering | Use Case        |
-|----------|------------|-------------|----------|-----------------|
+| -------- | ---------- | ----------- | -------- | --------------- |
 | TCP      | Yes        | Yes         | Yes      | Web, FTP, Email |
 | UDP      | No         | No          | No       | DNS, VoIP, TFTP |
 
@@ -104,10 +108,10 @@ Update all programs to prompt the user for:
 - **Server and client port numbers**
 
 **Example:**
-```
+```bash
 Enter server IP: 127.0.0.1
 Enter server port: 9000
-````
+```
 
 ---
 
@@ -125,10 +129,10 @@ Update `tcp_client` and `udp_client` to:
 
 ## Extra Credit (Optional)
 
-- Add multi-client support in `tcp_server` (e.g., using `fork()` or threads)
+- Add multi-client support in `tcp_server`
 - Add logging features (client IP, timestamps, etc.)
 - Add error recovery or retry logic in UDP
-- Feel free to experiment and go beyond the lab instructions!
+- Feel free to experiment and go beyond the lab instructions! Surprise me!
 
 ---
 
