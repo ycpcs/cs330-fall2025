@@ -14,5 +14,6 @@ This page links to homework and programming assignments.
 > [Time Server](time-server.html) | n/a | 100 | Sept 28, 2025
 > [Wireshark UDP](wireshark-udp.html) | n/a | 75 | Oct 07, 2025
 > [Reliable Data Transfer](rdt.html) | n/a | 75 | Oct 09, 2025
+> [Introduction to Sockets](sockets.html) | n/a | 120 | Oct 14, 2025
 
 <sup>*</sup> Programming Assignment
