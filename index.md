@@ -23,6 +23,8 @@ This is your central hub for all course-related information, including announcem
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
+* **Oct 09** - Reliable Data Transfer Lab: [RDT](assignments/rdt.html) Due 
+* **Oct 07** - [Wireshark UDP](assignments/wireshark-udp.html) Due
 * **Sep 28** - [Time Server](assignments/time-server.html) Due
 * **Sep 23** - Exam 1 [Study Guide](schedule/exams/exam-1-guide.html)
 * **Sep 19** - Class Exercise: [Analyzing FTP Traffic with Wireshark](exercises/ftp.html) Due
