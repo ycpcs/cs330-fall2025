@@ -129,9 +129,9 @@ Update `tcp_client` and `udp_client` to:
 
 ## Extra Credit (Optional)
 
-- Add multi-client support in `tcp_server`
+- Add multi-client support in `tcp_server`.
 - Add logging features (client IP, timestamps, etc.)
-- Add error recovery or retry logic in UDP
+- Add error recovery or retry logic in UDP.
 - Feel free to experiment and go beyond the lab instructions! Surprise me!
 
 ---
