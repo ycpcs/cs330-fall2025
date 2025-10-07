@@ -16,12 +16,9 @@ In this lab, you will use **Wireshark** to analyze a TCP connection established 
 
 1. Open your web browser and download an ASCII version of **Alice in Wonderland** from: [http://gaia.cs.umass.edu/wireshark-labs/alice.txt](http://gaia.cs.umass.edu/wireshark-labs/alice.txt)
 
-
 Save the file as `alice.txt` on your local computer.
 
 2. Go to the following URL: [http://gaia.cs.umass.edu/wireshark-labs/TCP-wireshark-file1.html](http://gaia.cs.umass.edu/wireshark-labs/TCP-wireshark-file1.html)
-
-
 
 3. Use the **Browse** button to select the `alice.txt` file you just downloaded.
 
@@ -107,6 +104,7 @@ Use `α = 0.125`, and let the initial EstimatedRTT equal the RTT of the first se
 ### 7. Segment Lengths
 
 - What is the **length (header + payload)** of the **first four** data-carrying TCP segments?
+- What is the maximum segment size (MSS) of the stream?
 
 ---
 
