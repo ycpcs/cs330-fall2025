@@ -22,7 +22,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 5    | 25-Sep | Transport Layer: [Design Issues](slides/chapter_3.pdf)              | CN: 3.1 - 3.3 |                                                        |
 | 6    | 30-Sep | Transport Layer: [UDP](slides/chapter_3.pdf)                        | CN: 3.2 - 3.3 | [UDP](../assignments/wireshark-udp.html)               |
 | 6    | 2-Oct  | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf)     | CN: 3.4       | [RDT](../assignments/rdt.html)                         |
-| 7    | 7-Oct  | Transport Layer: [TCP](slides/chapter_3.pdf)                        | CN: 3.5       |                                                        |
+| 7    | 7-Oct  | Transport Layer: [TCP](slides/chapter_3.pdf)                        | CN: 3.5       | [Sockets](../assignments/sockets.html)                 |
 | 7    | 9-Oct  | Transport Layer: [Congestion Control](slides/chapter_3.pdf)         | CN: 3.6 - 3.7 |                                                        |
 | 8    | 14-Oct | NO CLASSES - Fall Break                                             |               |                                                        |
 | 8    | 16-Oct | Chat Application                                                    |               |                                                        |
