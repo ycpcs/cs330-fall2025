@@ -23,7 +23,7 @@ This is your central hub for all course-related information, including announcem
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
-* **Oct 14** - [Introduction to Sockets](sockets.html) Due
+* **Oct 14** - [Introduction to Sockets](assignments/sockets.html) Due
 * **Oct 09** - Reliable Data Transfer Lab: [RDT](assignments/rdt.html) Due 
 * **Oct 07** - [Wireshark UDP](assignments/wireshark-udp.html) Due
 * **Sep 28** - [Time Server](assignments/time-server.html) Due
