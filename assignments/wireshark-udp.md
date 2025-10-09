@@ -26,7 +26,7 @@ In this lab, you will explore the structure and behavior of the **User Datagram 
 1. Open **Wireshark** and start a new capture.
 2. In a terminal or command prompt, enter:
 ```
-nslookup ycp.edu
+nslookup ycp.
 ```
 3. Stop the capture after the response is received.
 4. Use the **display filter** `udp` to isolate UDP packets.
@@ -38,7 +38,7 @@ nslookup ycp.edu
 ### 1. First UDP Segment
 
 - Identify the **first UDP segment** in your capture.
-- **Make sure this packet is the DNS query for `.edu`.**
+- **Make sure this packet is the DNS query for `ycp.`.**
 - What is the **packet number** of this segment in the trace file?
 - What **application-layer protocol** or payload does this segment contain?
 - How many **fields** are present in the UDP header? *(Use Wireshark, not the textbook.)*
@@ -111,7 +111,7 @@ For the **second packet (the response)**:
 > **Note:** Be sure to save your packet capture file (`.pcapng`) for submission or reference.
 
 ## Grading
-Submit your lab report, including the **packet capture file** and **screenshots**, via [Marmoset](https://cs..edu/marmoset) by the scheduled due date listed in the syllabus.
+Submit your lab report, including the **packet capture file** and **screenshots**, via [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date listed in the syllabus.
 
 > **Note:** Label your answers clearly using the question numbers above.
 
