@@ -25,11 +25,11 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 7    | 7-Oct  | Transport Layer: [TCP](slides/chapter_3.pdf)                        | CN: 3.5       | [Sockets](../assignments/sockets.html)                 |
 | 7    | 9-Oct  | Transport Layer: [Congestion Control](slides/chapter_3.pdf)         | CN: 3.6 - 3.7 | [TCP](../assignments/wireshark-tcp.html)               |
 | 8    | 14-Oct | NO CLASSES - Fall Break                                             |               |                                                        |
-| 8    | 16-Oct | Network Layer: Router Architectures, IPv4, DHCP                     |               |                                                        |
-| 9    | 21-Oct | No Class                                                            | CN: 4.1 - 4.3 |                                                        |
-| 9    | 23-Oct | No Class                                                            | CN: 4.3 - 4.5 |                                                        |
-| 10   | 28-Oct | Network Layer: IPv6, NAT                                            | CN: 3.1 - 4.5 |                                                        |
-| 10   | 30-Oct | **EXAM 2**                                                          |               |                                                        |
+| 8    | 16-Oct | Network Layer: Router Architectures, IPv4, DHCP                     | CN: 4.1 - 4.3 |                                                        |
+| 9    | 21-Oct | No Class                                                            |               |                                                        |
+| 9    | 23-Oct | No Class                                                            |               |                                                        |
+| 10   | 28-Oct | Network Layer: IPv6, NAT                                            | CN: 4.3 - 4.5 |                                                        |
+| 10   | 30-Oct | **EXAM 2**                                                          | CN: 3.1 - 4.5 |                                                        |
 | 11   | 4-Nov  | Network Layer: Routing Algorithms & Dijkstra's Algorithm            | CN: 5.1 - 5.2 |                                                        |
 | 11   | 6-Nov  | Network Layer: Internet Routing                                     | CN: 5.3 - 5.4 |                                                        |
 | 12   | 11-Nov | Link Layer: Link Layer Functions                                    | CN: 6.1 - 6.2 |                                                        |
