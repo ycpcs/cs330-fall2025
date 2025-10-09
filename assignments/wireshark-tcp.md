@@ -34,7 +34,9 @@ Save the file as `alice.txt` on your local computer.
 
 ## Part 2: HTTP POST and TCP Analysis
 
-Begin by locating the **HTTP POST** request in Wireshark. Expand the packet and look closely at the **TCP** and **HTTP** headers. Then, filter your Wireshark view by entering `tcp` into the display filter bar.
+- Begin by locating the **HTTP POST** request in Wireshark. Expand the packet and look closely at the **TCP** and **HTTP** headers. Then, filter your Wireshark view by entering `tcp` into the display filter bar.
+
+- The body of your application-layer HTTP POST message contains the contents of the file `alice.txt`, which is a large file.
 
 ---
 
