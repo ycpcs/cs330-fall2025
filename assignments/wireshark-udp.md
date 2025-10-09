@@ -38,7 +38,7 @@ nslookup ycp.edu
 ### 1. First UDP Segment
 
 - Identify the **first UDP segment** in your capture.
-- **Make sure this packet is the DNS query for `ycp.`.**
+- **Make sure this packet is the DNS query for `ycp.edu`.**
 - What is the **packet number** of this segment in the trace file?
 - What **application-layer protocol** or payload does this segment contain?
 - How many **fields** are present in the UDP header? *(Use Wireshark, not the textbook.)*
