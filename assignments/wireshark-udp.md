@@ -26,7 +26,7 @@ In this lab, you will explore the structure and behavior of the **User Datagram 
 1. Open **Wireshark** and start a new capture.
 2. In a terminal or command prompt, enter:
 ```
-nslookup ycp.
+nslookup ycp.edu
 ```
 3. Stop the capture after the response is received.
 4. Use the **display filter** `udp` to isolate UDP packets.
