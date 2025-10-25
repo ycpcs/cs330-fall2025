@@ -23,6 +23,8 @@ This is your central hub for all course-related information, including announcem
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
+* **Oct 30** - Exam 2 [Study Guide](schedule/exams/exam-2-guide.html)
+* **Oct 29** - [Chat Application](assignments/chat.html) Due
 * **Oct 16** - [Wireshark TCP](assignments/wireshark-tcp.html) Due
 * **Oct 14** - [Introduction to Sockets](assignments/sockets.html) Due
 * **Oct 09** - Reliable Data Transfer Lab: [RDT](assignments/rdt.html) Due 

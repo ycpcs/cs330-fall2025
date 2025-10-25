@@ -18,18 +18,18 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 3    | 11-Sep | Application Layer: [HTTP & SMTP](slides/chapter_2.pdf)              | CN: 2.7       |                                                        |
 | 4    | 16-Sep | Application Layer: FTP, DNS                                         | CN: 2.3 - 2.4 | [FTP](exercises\ftp.html), [DNS](exercises\dns.html)   |
 | 4    | 18-Sep | Application Layer: [Video Streaming](slides/chapter_2.pdf)          | CN: 2.5 - 2.6 | [Time Server](../assignments/time-server.html)         |
-| 5    | 23-Sep | **EXAM 1**                                                          | CN: 1.1 - 2.6 | [Study Guide](exams\exam-1-guide.html)                 |
+| 5    | 23-Sep | **EXAM 1** - Chapter 1 & 2                                          | CN: 1.1 - 2.6 | [Study Guide](exams\exam-1-guide.html)                 |
 | 5    | 25-Sep | Transport Layer: [Design Issues](slides/chapter_3.pdf)              | CN: 3.1 - 3.3 |                                                        |
 | 6    | 30-Sep | Transport Layer: [UDP](slides/chapter_3.pdf)                        | CN: 3.2 - 3.3 | [UDP](../assignments/wireshark-udp.html)               |
 | 6    | 2-Oct  | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf)     | CN: 3.4       | [RDT](../assignments/rdt.html)                         |
 | 7    | 7-Oct  | Transport Layer: [TCP](slides/chapter_3.pdf)                        | CN: 3.5       | [Sockets](../assignments/sockets.html)                 |
 | 7    | 9-Oct  | Transport Layer: [Congestion Control](slides/chapter_3.pdf)         | CN: 3.6 - 3.7 | [TCP](../assignments/wireshark-tcp.html)               |
 | 8    | 14-Oct | NO CLASSES - Fall Break                                             |               |                                                        |
-| 8    | 16-Oct | Network Layer: Router Architectures, IPv4, DHCP                     | CN: 4.1 - 4.3 |                                                        |
+| 8    | 16-Oct | Chat Application                                                    |               | [Chat](../assignments/chat.html)                       |
 | 9    | 21-Oct | No Class                                                            |               |                                                        |
-| 9    | 23-Oct | No Class                                                            |               |                                                        |
-| 10   | 28-Oct | Network Layer: IPv6, NAT                                            | CN: 4.3 - 4.5 |                                                        |
-| 10   | 30-Oct | **EXAM 2**                                                          | CN: 3.1 - 4.5 |                                                        |
+| 9    | 23-Oct | No Class                                                            | CN: 4.1 - 4.3 |                                                        |
+| 10   | 28-Oct | Network Layer: [Router Architectures, IPv4, DHCP]                   | CN: 4.3 - 4.5 |                                                        |
+| 10   | 30-Oct | **EXAM 2** - Chapter 3                                              | CN: 3.1 - 4.5 | [Study Guide](exams\exam-2-guide.html)                 |
 | 11   | 4-Nov  | Network Layer: Routing Algorithms & Dijkstra's Algorithm            | CN: 5.1 - 5.2 |                                                        |
 | 11   | 6-Nov  | Network Layer: Internet Routing                                     | CN: 5.3 - 5.4 |                                                        |
 | 12   | 11-Nov | Link Layer: Link Layer Functions                                    | CN: 6.1 - 6.2 |                                                        |
