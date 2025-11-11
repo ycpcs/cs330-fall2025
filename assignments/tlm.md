@@ -81,6 +81,7 @@ Connection closed.
 
 ### Client - Server Example Interaction Diagram 
 
+```text
 ┌──────────┐             ┌────────────┐
 │  Client  │             │   Server   │
 └────┬─────┘             └────┬───────┘
@@ -112,7 +113,7 @@ Connection closed.
      │<────────────────────────┤
      │ Connection closed       │
 
-
+```
 ---
 
 ### Design Decisions
