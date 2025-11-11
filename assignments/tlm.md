@@ -210,5 +210,3 @@ When completing the lab, you must make and document several design choices. Incl
 > ```
 
 ---
-
-**End of Assignment**
