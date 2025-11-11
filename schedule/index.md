@@ -30,9 +30,9 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 9    | 23-Oct | NO CLASSES                                                                                                        |               |                                                        |
 | 10   | 28-Oct | Exam 3 Review (TCP, UDP, Sockets)                                                                                 |               |                                                        |
 | 10   | 30-Oct | **EXAM 2** - Chapter 3                                                                                            | CN: 3.1 - 3.7 | [Study Guide](exams\exam-2-guide.html)                 |
-| 11   | 4-Nov  | Network Layer: [Router Architectures, IPv4, DHCP](slides/chapter_4.pdf), [fragments](slides\mtu.pcapng)           | CN: 4.1 - 4.3 | [TLM](../assignments/tlm.html)                         |
+| 11   | 4-Nov  | Network Layer: [Router Architectures, IPv4, DHCP](slides/chapter_4.pdf), [fragments](slides\mtu.pcapng)           | CN: 4.1 - 4.3 |                                                        |
 | 11   | 6-Nov  | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](slides\teredo.pcap), [6to4](slides\6to4.pcap)          | CN: 4.3 - 4.5 |                                                        |
-| 12   | 11-Nov | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 |                                                        |
+| 12   | 11-Nov | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 | [TLM](../assignments/tlm.html)                         |
 | 12   | 13-Nov | Network Layer: [Internet Routing](slides/chapter_5.pdf)                                                           | CN: 5.3 - 5.4 |                                                        |
 | 13   | 18-Nov | Link Layer: Link Layer Functions                                                                                  | CN: 6.1 - 6.2 |                                                        |
 | 13   | 20-Nov | **EXAM 3**                                                                                                        | CN: 4.1 - 6.2 |                                                        |
