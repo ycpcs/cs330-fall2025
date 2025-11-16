@@ -25,17 +25,18 @@ This is your central hub for all course-related information, including announcem
 ## News
 * **Dec 09** - Raw C Sockets: [ping & traceroute](assignments/c-raw-sockets.html) Due
 * **Nov 30** - [TLM Application](assignments/tlm.html) Due
-* **Oct 30** - Exam 2 [Study Guide](schedule/exams/exam-2-guide.html)
-* **Oct 29** - [Chat Application](assignments/chat.html) Due
-* **Oct 16** - [Wireshark TCP](assignments/wireshark-tcp.html) Due
-* **Oct 14** - [Introduction to Sockets](assignments/sockets.html) Due
-* **Oct 09** - Reliable Data Transfer Lab: [RDT](assignments/rdt.html) Due 
-* **Oct 07** - [Wireshark UDP](assignments/wireshark-udp.html) Due
-* **Sep 28** - [Time Server](assignments/time-server.html) Due
-* **Sep 23** - Exam 1 [Study Guide](schedule/exams/exam-1-guide.html)
-* **Sep 19** - Class Exercise: [Analyzing FTP Traffic with Wireshark](exercises/ftp.html) Due
-* **Sep 19** - Class Exercise: [Exploring DNS Using nslookup and Wireshark](exercises/dns.html) Due
-* **Sep 18** - [Chapter 1 Homework](assignments/chapter-1.html) Due
-* **Sep 11** - [Wireshark Intro](assignments/wireshark-intro.html) Due
-* **Aug 28** - [Ethics and Legal Responsibilities](assignments/ethics.html) Due
-* **Aug 26** - Welcome back!
+* **Nov 20** - Exam 3 [Study Guide](schedule/exams/exam-3-guide.html)
+* <span style="color: gray;">**Oct 30** - Exam 2 [Study Guide](schedule/exams/exam-2-guide.html)</span>
+* <span style="color: gray;">**Oct 29** - [Chat Application](assignments/chat.html) Due</span>
+* <span style="color: gray;">**Oct 16** - [Wireshark TCP](assignments/wireshark-tcp.html) Due</span>
+* <span style="color: gray;">**Oct 14** - [Introduction to Sockets](assignments/sockets.html) Due</span>
+* <span style="color: gray;">**Oct 09** - Reliable Data Transfer Lab: [RDT](assignments/rdt.html) Due</span>
+* <span style="color: gray;">**Oct 07** - [Wireshark UDP](assignments/wireshark-udp.html) Due</span>
+* <span style="color: gray;">**Sep 28** - [Time Server](assignments/time-server.html) Due</span>
+* <span style="color: gray;">**Sep 23** - Exam 1 [Study Guide](schedule/exams/exam-1-guide.html)</span>
+* <span style="color: gray;">**Sep 19** - Class Exercise: [Analyzing FTP Traffic with Wireshark](exercises/ftp.html) Due</span>
+* <span style="color: gray;">**Sep 19** - Class Exercise: [Exploring DNS Using nslookup and Wireshark](exercises/dns.html) Due</span>
+* <span style="color: gray;">**Sep 18** - [Chapter 1 Homework](assignments/chapter-1.html) Due</span>
+* <span style="color: gray;">**Sep 11** - [Wireshark Intro](assignments/wireshark-intro.html) Due</span>
+* <span style="color: gray;">**Aug 28** - [Ethics and Legal Responsibilities](assignments/ethics.html) Due</span>
+* <span style="color: gray;">**Aug 26** - Welcome back!</span>
