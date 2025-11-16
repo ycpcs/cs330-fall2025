@@ -13,10 +13,11 @@ This page links to homework and programming assignments.
 > [Chapter 1 Homework](chapter-1.html) | [Review](chapter-1-review.html) | 150 | Sept 18, 2025
 > [Time Server](time-server.html) * | n/a | 100 | Sept 28, 2025
 > [Wireshark UDP](wireshark-udp.html) | n/a | 75 | Oct 07, 2025
-> [Reliable Data Transfer](rdt.html) | n/a | 75 | Oct 09, 2025
+> [Reliable Data Transfer](rdt.html) | [Review](rdt-review.md) | 75 | Oct 09, 2025
 > [Introduction to Sockets](sockets.html) * | n/a | 120 | Oct 14, 2025
 > [Wireshark TCP](wireshark-tcp.html) | n/a | 100 | Oct 16, 2025
 > [Chat Application](chat.html) | n/a | 200 | Oct 29, 2025
 > [TLM Application](tlm.html) | n/a | 300 | Nov 30, 2025
+> [Ping & Traceroute](c-raw-sockets.html) | 200 | Dec 10, 2025
 
 <sup>*</sup> Programming Assignment
