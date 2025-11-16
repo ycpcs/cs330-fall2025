@@ -18,6 +18,6 @@ This page links to homework and programming assignments.
 > [Wireshark TCP](wireshark-tcp.html) | n/a | 100 | Oct 16, 2025
 > [Chat Application](chat.html) | n/a | 200 | Oct 29, 2025
 > [TLM Application](tlm.html) | n/a | 300 | Nov 30, 2025
-> [Ping & Traceroute](c-raw-sockets.html) | 200 | Dec 10, 2025
+> [Ping & Traceroute](c-raw-sockets.html) | 200 | Dec 09, 2025
 
 <sup>*</sup> Programming Assignment
