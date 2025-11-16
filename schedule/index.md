@@ -35,7 +35,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 12   | 11-Nov | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 | [TLM](../assignments/tlm.html)                         |
 | 12   | 13-Nov | Network Layer: [Internet Routing](slides/chapter_5.pdf) [raw sockets](slides/sniff_raw.c)                         | CN: 5.3 - 5.4 |                                                        |
 | 13   | 18-Nov | Link Layer: [Link Layer Functions](slides/chapter_6.pdf)                                                          | CN: 6.1 - 6.2 | [ping & traceroute](../assignments/c-raw-sockets.html) |
-| 13   | 20-Nov | **EXAM 3**                                                                                                        | CN: 4.1 - 6.2 | [Study Guide](exams\exam-3-guide.html)                 |
+| 13   | 20-Nov | **EXAM 3** - Chapter 4, 5, and parts of 6                                                                         | CN: 4.1 - 6.2 | [Study Guide](exams\exam-3-guide.html)                 |
 | 14   | 25-Nov | Link Layer: [Multiple Access Links, ARP](slides/chapter_6.pdf)                                                    | CN: 6.3 - 6.4 |                                                        |
 | 14   | 27-Nov | NO CLASS - Thanksgiving Break                                                                                     |               |                                                        |
 | 15   | 2-Dec  | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf)                                                       | CN: 6.4 - 6.8 |                                                        |
