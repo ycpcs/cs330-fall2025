@@ -39,7 +39,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 14   | 25-Nov | Link Layer: [Multiple Access Links, ARP](slides/chapter_6.pdf)                                                    | CN: 6.3 - 6.4 |                                                        |
 | 14   | 27-Nov | NO CLASS - Thanksgiving Break                                                                                     |               |                                                        |
 | 15   | 2-Dec  | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf)                                                       | CN: 6.4 - 6.8 |                                                        |
-| 15   | 4-Dec  | ping and traceroute using RAW sockets                                                                             |               |                                                        |
+| 15   | 4-Dec  |                                                                                                                   |               |                                                        |
 | 16   | 9-Dec  | NO CLASSES - Reading Day                                                                                          |               |                                                        |
 | 16   | 11-Dec | **FINAL EXAM**                                                                                                    | CN: 1.1 - 6.8 | **6:00 PM - 8:00 PM**                                  |
 
