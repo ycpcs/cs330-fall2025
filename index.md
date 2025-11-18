@@ -23,7 +23,7 @@ This is your central hub for all course-related information, including announcem
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
-* **Dec 09** - Raw C Sockets: [ping & traceroute](assignments/c-raw-sockets.html) Due
+* **Dec 09** - [ping & traceroute](assignments/c-raw-sockets.html) Due
 * **Nov 30** - [TLM Application](assignments/tlm.html) Due
 * **Nov 20** - Exam 3 [Study Guide](schedule/exams/exam-3-guide.html)
 * <span style="color: gray;">**Oct 30** - Exam 2 [Study Guide](schedule/exams/exam-2-guide.html)</span>
