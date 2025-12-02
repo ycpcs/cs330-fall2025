@@ -38,8 +38,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 | 13   | 20-Nov | **EXAM 3** - Chapter 4, 5, and parts of 6                                                                         | CN: 4.1 - 6.2 | [Study Guide](exams\exam-3-guide.html)                 |
 | 14   | 25-Nov | Link Layer: [Multiple Access Links, ARP](slides/chapter_6.pdf)                                                    | CN: 6.3 - 6.4 |                                                        |
 | 14   | 27-Nov | NO CLASS - Thanksgiving Break                                                                                     |               |                                                        |
-| 15   | 2-Dec  | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf)                                                       | CN: 6.4 - 6.8 |                                                        |
-| 15   | 4-Dec  |                                                                                                                   |               |                                                        |
+| 15   | 2-Dec  | Link Layer: [Ethernet, VLAN](slides/chapter_6.pdf)                                                                | CN: 6.4 - 6.5 |                                                        |
+| 15   | 4-Dec  | Link Layer: [Switched LANs, Data Centers](slides/chapter_6.pdf)                                                   | 6.6 - 6.8     |                                                        |
 | 16   | 9-Dec  | NO CLASSES - Reading Day                                                                                          |               |                                                        |
 | 16   | 11-Dec | **FINAL EXAM**                                                                                                    | CN: 1.1 - 6.8 | **6:00 PM - 8:00 PM**                                  |
 
